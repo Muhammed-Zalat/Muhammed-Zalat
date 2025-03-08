@@ -13,8 +13,8 @@ I thrive in fast-paced environments where I can continuously learn and improve I
 - **Database Management**: SQL, NoSQL, and performance tuning
 
 ## 📫 Get in Touch
-- **GitHub**: [Your GitHub Profile](https://github.com/Muhammed-Zalat)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/muhammed-zalat)
-- **Email**: [your.email@example.com](mailto:mohmed.galal.zalat.mz@gmail.com)
+- **GitHub**: [Muhammed-Zalat](https://github.com/Muhammed-Zalat)
+- **LinkedIn**: [muhammed-zalat](https://linkedin.com/in/muhammed-zalat)
+- **Email**: [mohmed.galal.zalat.mz@gmail.com](mailto:mohmed.galal.zalat.mz@gmail.com)
 
 Let's connect and build something amazing! 🚀
